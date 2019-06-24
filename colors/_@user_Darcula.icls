@@ -1,13 +1,13 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.75" />
+  <option name="FONT_SCALE" value="1.5" />
   <metaInfo>
     <property name="created">2019-06-06T03:25:26</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-06-06T04:17:48</property>
+    <property name="modified">2019-06-24T07:37:17</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="21" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
 </scheme>
